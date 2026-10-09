@@ -20,7 +20,7 @@ An Excel-based coffee sales analysis project covering data preparation, analysis
 
 Tools: Microsoft Excel
 
-☕ Coffee Shop Sales Analysis — Maven Analytics
+☕ Coffee Shop Sales Analysis — Excel
 
 An Excel dashboard project analyzing coffee shop transaction data, sales performance, product trends, and customer purchasing patterns.
 
