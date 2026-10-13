@@ -33,14 +33,14 @@ A complete data analysis project covering data cleaning, SQL analysis, KPI repor
 
 Tools: Excel • SQL • Power BI
 
-🎯 Currently
+## 🎯 Currently
 
 - Building my Data Analyst portfolio
 - Developing practical data analysis projects
 - Looking for freelance data analysis and dashboard projects
 - Continuing to improve my Excel, SQL, and Power BI skills
 
-📫 Connect With Me
+## 📫 Connect With Me
 
 - LinkedIn - https://www.linkedin.com/in/kyal-sin-phyo-wai 
 - GitHub - https://github.com/kyalsinphyowai-q
