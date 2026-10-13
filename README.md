@@ -45,5 +45,4 @@ Tools: Excel • SQL • Power BI
 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/kyal-sin-phyo-wai)
 
 
-
-**GitHub:** [Connect with me on Github] (https://github.com/kyalsinphyowai-q)
+**GitHub:**[Connect with me on Github] (https://github.com/kyalsinphyowai-q)
