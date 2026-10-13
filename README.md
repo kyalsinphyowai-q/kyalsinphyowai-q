@@ -1,18 +1,18 @@
 Hi, I'm Kyal Sin Phyo Wai 👋
 
-Freelance Data Analyst | Excel | SQL | Power BI
+# Freelance Data Analyst | Excel | SQL | Power BI
 
 I’m a Freelance Data Analyst focused on turning raw data into clear, actionable insights.
 
 I work with Excel and SQL to clean, analyze, and visualize data with Power BI on practical dashboards and business reporting.
 
-Skills & Tools
+## Skills & Tools
 
 - Excel — Data Cleaning, Pivot Tables, Data Analysis & Dashboards
 - SQL — Data Querying, Aggregation & Analysis
 - Power BI — Data Visualization, KPI Reporting & Dashboards
 
-Featured Projects
+## Featured Projects
 
 ☕ Coffee Sales Analysis — Excel
 
