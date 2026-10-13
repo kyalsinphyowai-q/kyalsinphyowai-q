@@ -1,6 +1,7 @@
 Hi, I'm Kyal Sin Phyo Wai 👋
 
-# Freelance Data Analyst | Excel | SQL | Power BI
+# Freelance Data Analyst 
+## Excel | SQL | Power BI
 
 I’m a Freelance Data Analyst focused on turning raw data into clear, actionable insights.
 
