@@ -15,19 +15,19 @@ I work with Excel and SQL to clean, analyze, and visualize data with Power BI on
 
 ## Featured Projects
 
-☕ Coffee Sales Analysis — Excel
+☕ Coffee Sales Performance Analysis — Excel
 
 An Excel-based coffee sales analysis project covering data preparation, analysis, KPI reporting, and dashboard development.
 
 Tools: Microsoft Excel
 
-☕ Coffee Shop Sales Analysis — Excel
+☕ Coffee Shop Transaction Analysis — Excel
 
 An Excel dashboard project analyzing coffee shop transaction data, sales performance, product trends, and customer purchasing patterns.
 
 Tools: Microsoft Excel
 
-📈 Sales Analysis — Excel, SQL & Power BI
+📈 Sales Performance Analysis — Excel, SQL & Power BI
 
 A complete data analysis project covering data cleaning, SQL analysis, KPI reporting, and Power BI dashboard development.
 
